@@ -1,0 +1,32 @@
+
+.left{display: flex;
+margin-left: 150px;
+margin-top: 20px;
+
+}
+.right{
+
+margin-right: 100px;
+
+}
+.top{
+    width: 40%;
+    float: left;
+    
+}
+
+.lol{
+
+background-color: aquamarine;
+}
+.container{
+
+height:550px;
+background-color: aquamarine;
+
+}
+.top img{width:100%;
+}
+.butt{
+    margin-left: 150px;
+}
