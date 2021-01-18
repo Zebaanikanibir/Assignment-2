@@ -19,16 +19,17 @@ margin-right: 100px;
 .time{
     color:orangered;
 }
-.top{
-  width: 50%;  
-}
-.top .timg{
-    width:80%;
-}
 
+.top .timg{
+    width:50%;
+}
+.topper-img img{
+    width: 400px;
+    height: 70%;
+}
 .head{
 
-height:700px;
+height:100%;
 background-color: aquamarine;
 
 }
